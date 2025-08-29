@@ -16,7 +16,7 @@ The purpose of this repository is to share my personal journey of learning and e
 <!-- - 🧪 **Experiments** with development practices supported by AI -->
 <!-- - 🧭 **Examples and scenarios** of AI as a pair programmer -->
 <!-- - 🧰 **Patterns, techniques, and best practices** to make AI-assisted coding more effective -->
-<!-- - ✍️ **Educational materials**: book excerpts, articles, and personal insights -->
+<!-- - ✍️ **Educational **materials****: book excerpts, articles, and personal insights -->
 
 ---
 
