@@ -2,7 +2,7 @@
 description: Remind Claude about TDD implementation rules and identify process violations
 ---
 
-Please read our implementation process in @CLAUDE.md and identify which TDD rules you are violating or have violated in recent actions. Specifically review:
+Please read our implementation process in CLAUDE.md and identify which TDD rules you are violating or have violated in recent actions. Specifically review:
 
 1. The mandatory TDD steps: Write ONE failing test → Run to confirm failure → Write minimal implementation → Run to confirm success → Refactor → Repeat
 2. The rule about writing only ONE test at a time (never multiple tests simultaneously)
