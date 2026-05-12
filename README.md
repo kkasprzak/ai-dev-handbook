@@ -15,6 +15,7 @@ The purpose of this repository is to share my personal journey of learning and e
 
 - 🗒️ **Daily AI retrospectives**: very raw, unedited brain dumps from my day-to-day work with AI assistants.
 - 🧩 **MCP Integrations & Extensions**: a structured catalog of all Model Context Protocol (MCP) servers, extensions, and integrations I use, evaluate, or plan to test, including their status, purpose, and links to documentation.
+- 🧠 **Reusable AI prompts**: prompts that are useful across projects, tools, and coding workflows, collected in a copyable and improvable format.
   <!-- - 📘 **My notes and guides** on using AI in programming -->
   <!-- - 🧪 **Experiments** with development practices supported by AI -->
   <!-- - 🧭 **Examples and scenarios** of AI as a pair programmer -->
@@ -74,6 +75,14 @@ This file is designed to:
 - The evolving landscape of MCP-enabled tools
 
 Whether you're looking for inspiration on which MCPs to try, or want to see how an AI developer manages and evaluates integrations, this file provides a transparent, evolving snapshot of my MCP ecosystem.
+
+---
+
+## Reusable AI Prompts
+
+Inside the [`prompts/`](./prompts) directory, you'll find reusable prompts that are useful across projects and AI assistants. Each prompt is intended to be easy to copy into a tool, adapt to a specific project, and improve after real usage.
+
+The directory includes a prompt template, a lightweight catalog, and naming conventions for storing prompts by use case or assistant.
 
 ---
 
