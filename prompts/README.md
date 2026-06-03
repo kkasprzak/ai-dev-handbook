@@ -10,6 +10,7 @@ The goal is to keep prompts easy to copy, adapt, and improve over time. Each pro
 | --- | --- | --- | --- |
 | [`radically-useful-addition.md`](./radically-useful-addition.md) | Challenge a development plan or project with one high-leverage improvement idea | Any | Active |
 | [`beads-self-documenting-breakdown.md`](./beads-self-documenting-breakdown.md) | Convert prior context into a Beads task graph — pointer to the current version (v1; v2 in testing) | Beads, `bd` | Active |
+| [`beads-autonomous-execution.md`](./beads-autonomous-execution.md) | Execute a ready Beads graph autonomously, one bead per commit — pointer to the current version (v1) | Beads, `bd` | Active |
 | [`fresh-eyes-review.md`](./fresh-eyes-review.md) | Ask the model to re-review its own output for a broad range of defects | Any | Active |
 | [`grill-me.md`](./grill-me.md) | Stress-test a plan or design through one-question-at-a-time interrogation | Any, coding agents | Active |
 | [`in-the-optimal-way-possible.md`](./in-the-optimal-way-possible.md) | Append a phrase to nudge the model to reason harder for a better answer | Any | Active |
