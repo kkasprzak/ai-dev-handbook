@@ -42,3 +42,4 @@ quiz them with open-ended or multiple choice questions with AskUserQuestion (be 
 - The text above is a gender-neutral rewrite of the original (which used "she/her"); behavior is identical.
 - Key mechanics worth preserving if you adapt it: incremental confirmation before advancing, a running markdown checklist, "restate first" to locate gaps, `AskUserQuestion` quizzes with shuffled answer order and answers hidden until submission, and the hard stop condition that the session doesn't end until every checklist item is demonstrated.
 - The eli5 / eli14 / elii (explain-like-I'm-an-intern) ladder lets you dial explanation depth on demand.
+- To learn a subject rather than a specific change, use the sibling prompt [`teach-me-a-topic.md`](./teach-me-a-topic.md).
