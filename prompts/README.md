@@ -14,6 +14,7 @@ The goal is to keep prompts easy to copy, adapt, and improve over time. Each pro
 | [`fresh-eyes-review.md`](./fresh-eyes-review.md) | Ask the model to re-review its own output for a broad range of defects | Any | Active |
 | [`grill-me.md`](./grill-me.md) | Stress-test a plan or design through one-question-at-a-time interrogation | Any, coding agents | Active |
 | [`in-the-optimal-way-possible.md`](./in-the-optimal-way-possible.md) | Append a phrase to nudge the model to reason harder for a better answer | Any | Active |
+| [`teach-me-the-session.md`](./teach-me-the-session.md) | Turn the assistant into a teacher that drills you until you deeply understand a session/PR/change | Any, coding agents | Active |
 | [`_template.md`](./_template.md) | Template for adding a new reusable prompt | Any | Template |
 
 ## Naming
