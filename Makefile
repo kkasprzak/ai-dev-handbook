@@ -11,6 +11,9 @@ new-retro:
 	  echo '' >> $$retro_file; \
 	  echo '## **How can I use this learning tomorrow/in the future?**' >> $$retro_file; \
 	  echo '' >> $$retro_file; \
+	  echo '## **Interesting Reddit posts about coding/AI**' >> $$retro_file; \
+	  echo '' >> $$retro_file; \
+	  echo '' >> $$retro_file; \
 	  echo 'Created new retrospective: '$$retro_file; \
 	else \
 	  echo 'Retrospective for today already exists: '$$retro_file; \

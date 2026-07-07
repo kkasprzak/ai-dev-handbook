@@ -11,5 +11,6 @@
 | Version | File | Status |
 | --- | --- | --- |
 | v1 | [`beads-autonomous-execution-v1.md`](./beads-autonomous-execution-v1.md) | Current |
+| v2 | [`beads-autonomous-execution-v2.md`](./beads-autonomous-execution-v2.md) | Testing |
 
 When a candidate is validated, set it as **Current** above, flip the statuses here and in [`README.md`](./README.md), and leave both files in place.
